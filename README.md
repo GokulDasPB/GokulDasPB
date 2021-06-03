@@ -1,0 +1,5 @@
+- 👋 Hi, I’m GokuldasPB
+- 👀 I’m interested in Healthcare and medicine 
+- 🌱 I’m currently learning Biomedical engineering
+- 💞️ I’m looking to Work on app developement and Bot creation 
+- 📫 How to reach me by LinkedIn:https://www.linkedin.com/in/gokuldas23/
